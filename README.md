@@ -16,6 +16,6 @@ Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido com **H
 - HTML5
 - CSS3
 - JavaScript
-- LocalStorage
+
 
 
